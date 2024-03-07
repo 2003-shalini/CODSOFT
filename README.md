@@ -1,5 +1,6 @@
 # CODSOFT
 Introduction:
+
 This repository contains programs in java given by CodSoft for internship.Java is basically an Object Oriented Programming Language which can be easily implemented.The problems given by CodSoft have been completed using Java language.
 
 
@@ -17,6 +18,7 @@ You can customize the game parameters (e.g., lower and upper bounds, attempts li
 
 For Compilations and Running:
 javac NumberGame.java
+
 java NumberGame
 
 2)Student Grade Calculator:
@@ -39,6 +41,7 @@ Assigns a grade based on the calculated percentage and prints the corresponding 
 
 For compiling and running:
 javac StudentGradeCalculator.java
+
 java StudentGradeCalculator
 
 3)Atm Interface:
@@ -61,6 +64,7 @@ The user can choose options from the ATM menu:
 
 For compiling and running:
 javac BankAccountImplement.java
+
 java BankAccountImplement
 
 
