@@ -17,9 +17,7 @@ Customization:
 You can customize the game parameters (e.g., lower and upper bounds, attempts limit) by modifying the relevant variables in the code.
 
 For Compilations and Running:
-javac NumberGame.java
-
-java NumberGame
+javac NumberGame.java  java NumberGame
 
 2)Student Grade Calculator:
 This Java program calculates the total marks, percentage, and assigns grades based on the input marks for Tamil, English, Maths, Science, and Social subjects.
@@ -40,9 +38,7 @@ grade(double percentage): void
 Assigns a grade based on the calculated percentage and prints the corresponding grade.
 
 For compiling and running:
-javac StudentGradeCalculator.java
-
-java StudentGradeCalculator
+javac StudentGradeCalculator.java  java StudentGradeCalculator
 
 3)Atm Interface:
 This Java program simulates a simple ATM system with basic banking operations, including withdrawal, deposit, and checking balance.
@@ -63,8 +59,6 @@ The user can choose options from the ATM menu:
 4. Exit: Exits the ATM program.
 
 For compiling and running:
-javac BankAccountImplement.java
-
-java BankAccountImplement
+javac BankAccountImplement.java  java BankAccountImplement
 
 
